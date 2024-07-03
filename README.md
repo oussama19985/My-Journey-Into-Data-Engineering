@@ -8,6 +8,14 @@ Being a **data science** and **MLOps** consultant for many years, I have found m
 Data scientists aren’t typically trained to engineer **production-grade data systems**, and
 they end up doing this work haphazardly because they lack the support and resources
 of a **data engineer**.
+
+![image](https://github.com/oussama19985/My-Journey-Into-Data-Engineering/assets/61992717/f031934e-913b-4589-b5c3-01a1ca4320ed)
+
+Although many data scientists are eager to build and tune ML models, the reality is
+an estimated 70% to 80% of their time is spent toiling in the bottom three parts of
+the hierarchy—**gathering data, cleaning data, processing data**—and only a tiny slice
+of their time on analysis and ML.
+
 # Defining Data Engineering
 
 "Data engineering is the **development, implementation, and maintenance** of systems
